@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+h1 {
+  color: #dbdbdb; }
+
+a {
+  color: #00B7FF; }
+
+input {
+  padding: .3em;
+  border: 1px solid #dbdbdb;
+  margin: .3em; }
+
+input[type="text"] {
+  width: 20%; }
+
+input[type="button"] {
+  width: 21%; }
+
+#form {
+  display: flex;
+  flex-flow: column; }
+
+#data {
+  border: 1px solid #dbdbdb;
+  box-shadow: 1px 1px 30px #D9CF48;
+  padding: 1em;
+  color: #D9CF48; }
